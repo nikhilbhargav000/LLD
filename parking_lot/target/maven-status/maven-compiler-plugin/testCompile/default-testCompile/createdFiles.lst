@@ -1,0 +1,6 @@
+com/dkatalis/parking/AppTest.class
+com/dkatalis/parking/ParkingSlotStateFactoryTest.class
+com/dkatalis/parking/InputFileToCommandsParserTest.class
+com/dkatalis/parking/ParkingApplicationTest.class
+com/dkatalis/parking/ParkingSystemManagerTest.class
+com/dkatalis/parking/ParkingCommandExecutorTest.class
